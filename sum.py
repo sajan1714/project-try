@@ -6,6 +6,6 @@ def maximum(a, b):
         return b
       
 # Driver code
-a = 2
-b = 4
+a = 8
+b = 10
 print(maximum(a, b))
